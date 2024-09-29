@@ -1,0 +1,37 @@
+body{ 
+    background-color: rgb(73, 218, 218);
+}
+h1{
+    color: rgb(177, 40, 40);
+}
+main h1{
+    color: rgb(64, 16, 238);
+    font-size: 40px;
+}
+.color-titulo{
+    color: rgb(12, 12, 12);
+}
+#identificador{
+    background-color: rgb(56, 56, 172);
+    color: rgb(183, 228, 19);
+}
+[href="https://oferta.senasofiaplus.edu.co/sofia-oferta//inicio-sofia-plus.html"]
+{
+    color: #fff;
+    text-decoration: none;
+}
+[href="https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&ifkv=ARpgrqfgZY8NArpTsGqh8TgQZUJfneMv5TF2Fm2o4D6KmLHW7RoBTsk9K5KJHex4K7YbZOVCjDn5Hw&ddm=0&flowName=GlifWebSignIn&flowEntry=ServiceLogin#inbox"]
+{
+    color: #e00e0e;
+    text-decoration: none;
+}
+[href="https://www.google.com/?hl=es"]
+{
+    color: #ec10bc;
+    text-decoration: none;
+}
+
+h1{
+    color: #00fd37;
+    font-size: 45px;
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 300px;
+    height: 150px;
+    /* display: block; */
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: 30px;
+    margin-right: 60px;
+    margin: 50px 70px 30px 60px;
+    margin: 25px 15px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    padding: 30px;
+    border: solid 3px rgb(250, 0, 196);
+
+
+}
+.color{
+    background-color: steelblue;
+}
+.seccionA{
+    background-color: aqua;
+    margin-bottom: 150px;
+    margin-top: 50px;
+    padding: 0,5;
+}
+.seccionB{
+   margin-top: 120px;
+   border: solid 10px red;
+   /* padding-top: 0.5px; */
+   background-color: black;
+}
+
+
+
