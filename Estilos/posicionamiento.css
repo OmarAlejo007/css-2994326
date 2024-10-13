@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+
+}
+.container{
+    width: 450px;
+    height: 530px;
+    border: solid 5px #e91212;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+}
+.box{
+    background-color: rgb(43, 226, 211);
+    width: 100px;
+    height: 100px;
+    color: aliceblue ;
+    font-weight: 100;
+    text-align: center;
+}

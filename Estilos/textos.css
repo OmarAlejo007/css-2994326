@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Sixtyfour+Convergence&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Permanent Marker";
+}
+p{
+    font-size: 40px;
+    font-size: 4rem;
+    color: aqua;
+    text-align: center;
+    text-align: justify;
+    text-align: left;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 1.5;
+    text-shadow: 1px 1px 4px  #3804f3
+}
+a{
+    text-decoration: none;
+    font-size: 45px;
+    color: brown;
+    cursor: pointer;
+    text-shadow: 1px 1px 4px  #04f34c
+}

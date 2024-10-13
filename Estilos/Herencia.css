@@ -73,3 +73,6 @@ section figure img{
 .btn--border{
     border-radius: 10px;
 }
+a{
+    text-align: center;
+}
